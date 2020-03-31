@@ -1,9 +1,10 @@
-# Write your code here
-
 count = 10
-magic_exit_number = 0
-
-while count > 0 do
-    puts #{count}
+new_year = 0
+while count > -1 do
+  if count = new_year
+    puts "Happy New Year"
+  else
+    #{count}
+end
 count -= 1
 end
